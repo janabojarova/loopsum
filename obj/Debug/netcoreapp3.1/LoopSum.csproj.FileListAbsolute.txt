@@ -1,0 +1,13 @@
+/Users/janabojarova/Projects/LoopSum/obj/Debug/netcoreapp3.1/LoopSum.csproj.AssemblyReference.cache
+/Users/janabojarova/Projects/LoopSum/obj/Debug/netcoreapp3.1/LoopSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janabojarova/Projects/LoopSum/obj/Debug/netcoreapp3.1/LoopSum.AssemblyInfoInputs.cache
+/Users/janabojarova/Projects/LoopSum/obj/Debug/netcoreapp3.1/LoopSum.AssemblyInfo.cs
+/Users/janabojarova/Projects/LoopSum/obj/Debug/netcoreapp3.1/LoopSum.csproj.CoreCompileInputs.cache
+/Users/janabojarova/Projects/LoopSum/bin/Debug/netcoreapp3.1/LoopSum.deps.json
+/Users/janabojarova/Projects/LoopSum/bin/Debug/netcoreapp3.1/LoopSum.runtimeconfig.json
+/Users/janabojarova/Projects/LoopSum/bin/Debug/netcoreapp3.1/LoopSum.runtimeconfig.dev.json
+/Users/janabojarova/Projects/LoopSum/bin/Debug/netcoreapp3.1/LoopSum.dll
+/Users/janabojarova/Projects/LoopSum/bin/Debug/netcoreapp3.1/LoopSum.pdb
+/Users/janabojarova/Projects/LoopSum/obj/Debug/netcoreapp3.1/LoopSum.dll
+/Users/janabojarova/Projects/LoopSum/obj/Debug/netcoreapp3.1/LoopSum.pdb
+/Users/janabojarova/Projects/LoopSum/obj/Debug/netcoreapp3.1/LoopSum.genruntimeconfig.cache
